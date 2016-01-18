@@ -2,17 +2,12 @@ package InheritanceAndPolymorphism;
 
 /*In this assignment, we were instructed to create a Vehicle class with two fields, one for speed and the 
  * other for number of wheels. The Bicycle class extended the Vehicle class, adding a field of our choosing.
- * At a minimum, we had to provide a no-argument constructor and a two-argument constructor for the Vehicle class,
- *as well as getter/mutator fields. 
  *
- *In our main class, we needed to declare an array of at least 3 objects,including at least one bike 
- *and one vehicle. The assignment asked us how we could demonstrate polymorphism using the array,  using
+ *In our main class, we needed to declare an array with at least 3 objects, including at least one bike 
+ *and one vehicle. The assignment asked us how we could demonstrate polymorphism with the array,  using
  *whatever skills and methods we deemed necessary to complete this task. However, the more concise and clear our
- *results and explanations, the better the grade.
+ *results and explanations, the better the grade. 
 */
-
-
-
 
 public class Vehicle {
     private int maxSpeed;
