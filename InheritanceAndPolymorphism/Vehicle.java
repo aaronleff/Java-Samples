@@ -41,7 +41,7 @@ public class Vehicle {
 	
 	@Override
 	public String toString() {
-		return "Generic vehicle[maximum speed= " + maxSpeed + "mph" +
+		return "Generic vehicle[maximum speed= " + maxSpeed + " mph" +
 				", number of wheels=" + numWheels + "]";
 	}
 
